@@ -1,0 +1,63 @@
+body {
+    background-color: #F3DEBA;
+}
+
+
+
+
+div {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 70vh;
+    margin-top: 100px;
+}
+
+
+.cursive {
+    font-family: 'Shadows Into Light', cursive;
+    text-decoration: overline underline rgb(215, 64, 89);
+}
+
+p {
+    font-family: 'Yanone Kaffeesatz', sans-serif; 
+    font-size: 20px;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
